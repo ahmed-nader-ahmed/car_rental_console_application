@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1661634085 source:c:\cpp_projects\car_rental\car_rental_console_application\creating_data_file_by_c++\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<sstream>
+
