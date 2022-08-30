@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1661856821 source:c:\cpp_projects\car_rental\car_rental_console_application\car_rental_on_codeblocks\main.cpp
+	<iostream>
+	"renter.h"
+	<vector>
+	<fstream>
+
+1661847370 c:\cpp_projects\car_rental\car_rental_console_application\car_rental_on_codeblocks\renter.h
+	<iostream>
+
+1661847325 source:c:\cpp_projects\car_rental\car_rental_console_application\car_rental_on_codeblocks\renter.cpp
+	<iostream>
+	"renter.h"
+

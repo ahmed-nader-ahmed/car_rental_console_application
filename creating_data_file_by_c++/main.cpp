@@ -6,7 +6,7 @@
 using namespace std;
 
 const int FIELD_LENGTH = 20;
-const int NEW_LINE_LENGTH = 20;
+const int NEW_LINE_LENGTH = 2;
 string remainder;
 // getline(cin, remainder)
 
